@@ -1,0 +1,4 @@
+angielski ['Ameryka Polnocna', 'Europa', 'Afryka', 'Azja']
+arabski ['Afryka', 'Azja', 'Ameryka Poludniowa', 'Ameryka Polnocna', 'Europa']
+tamilski ['Azja', 'Afryka', 'Ameryka Polnocna', 'Europa']
+gudzaracki ['Azja', 'Ameryka Polnocna', 'Afryka', 'Europa']
