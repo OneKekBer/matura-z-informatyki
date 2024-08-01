@@ -1,0 +1,4 @@
+Panstwo	Procent	Jezyk
+Etiopia	35.51	oromo
+Indonezja	32.73	jawajski
+Pakistan	40.44	pendzabski
