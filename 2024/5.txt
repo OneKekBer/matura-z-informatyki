@@ -1,0 +1,43 @@
+1
+
+23.03.2022 Suma	789	0
+24.03.2022 Suma	1312	1
+25.03.2022 Suma	1799	1
+26.03.2022 Suma	2583	1
+28.03.2022 Suma	5605	1
+29.03.2022 Suma	5776	1
+
+
+2
+164-61-25-530 Suma	12185
+159-34-45-151 Suma	12047
+091-99-74-175 Suma	11769
+
+
+
+3
+caly przychod 2422669,4
+Reneta Suma	111406	3,5	389921
+
+
+4
+nazwa	kilo	miesiac
+Gala	14017	1
+Gala	14969	2
+Jonagored	15079	3
+Gala Suma	19404	4
+Gala Suma	17382	5
+Reneta Suma	18661	6
+Melba Suma	21216	7
+Reneta Suma	19054	8
+Reneta Suma	20881	9
+Reneta Suma	17065	10
+Reneta Suma	19755	11
+Jonagored	13425	12
+
+
+5
+
+180
+3089.1 zl
+

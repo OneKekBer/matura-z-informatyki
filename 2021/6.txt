@@ -1,0 +1,69 @@
+PoliczOfid_gracza	kraj	Wyr1
+11	Polska	2018
+8	Stany Zjednoczone	2018
+7	Francja	2018
+6	Niemcy	2018
+6	Rosja	2018
+
+
+2
+
+Identyfikator	nazwa	strzal
+18	ciemny elf	5
+19	lesny elf	15
+20	elfi czarodziej	5
+21	wysoki elf-gwardzista	10
+
+
+3
+id_gracza
+22
+24
+29
+35
+36
+37
+38
+47
+54
+61
+64
+72
+110
+114
+115
+122
+123
+138
+141
+167
+
+
+4.
+
+PoliczOfWyr1	nazwa
+1	architekt
+4	artylerzysta
+2	balista
+1	ciemny elf
+3	drwal
+1	elfi czarodziej
+2	goniec
+1	ifryt
+2	kaplan
+7	kawalerzysta
+4	konny lucznik
+1	kusznik
+19	lekki jezdziec
+1	lucznik
+3	mag powietrza
+2	mag wody
+1	paladyn
+7	piechur
+5	pikinier
+5	robotnik
+5	topornik
+1	wysoki elf-gwardzista
+4	zwiadowca
+
+

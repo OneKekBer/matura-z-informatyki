@@ -1,0 +1,17 @@
+7.1
+K2
+
+7.2
+Średnia	nazwa
+7,88	Szeryf z Nottingham
+7,54	Colt Express
+8,16	5 sekund
+8,07	Sushi Go
+7,73	Przebiegle wielblady
+8,25	Avalone
+7,80	Swiatowy Konflikt
+8,16	Jenga
+8,22	Mamy szpiega
+8,37	Koncept
+
+7.3
